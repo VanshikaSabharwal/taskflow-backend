@@ -54,7 +54,7 @@ bash api-test.sh
 
 - Prisma ORM — Database access
 
-- PostgreSQL / MySQL — Database (depending on your .env)
+- PostgreSQL / MySQL — Database 
 
 - JWT — Authentication
 
